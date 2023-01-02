@@ -2,9 +2,7 @@
 	I'm Irvan Lutfi Gunawan, a software engineer in Indonesia 🇮🇩
 </h1>
 
-<h3 align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%232196F3&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+Software+Engineer;Mobile, Front-end, Back-end Engineer)](https://git.io/typing-svg)
-</h3>
 
 <p align="center">
     Experienced for 4+ years in the field of Technology Development. Bachelor Degree in Information Systems at the Indonesian Computer University. I'm an enthusiastic and highly motivated individual.
