@@ -2,8 +2,8 @@
 	I'm Irvan Lutfi Gunawan, a software engineer in Indonesia 🇮🇩
 </h1>
 
-<p align="center">
 ![](https://komarev.com/ghpvc/?username=edorado93)
+<p align="center">
 	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/irvan-lutfi-gunawan-2488b8151)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://irvanlg.id/)
