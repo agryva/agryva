@@ -1,5 +1,5 @@
 <h1 align="center">
-	I'm Irvan Lutfi Gunawan, a software engineer in Indonesia 🇮🇩
+	Hellooo, I'm Irvan Lutfi Gunawan, a software engineer in Indonesia 🇮🇩
 </h1>
 
 ![](https://komarev.com/ghpvc/?username=agryva)
@@ -8,6 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/irvan-lutfi-gunawan-2488b8151)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://irvanlg.id/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/irvanlg_/)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agryva)
 </p>
 
 <p align="center">
