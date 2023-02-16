@@ -30,7 +30,7 @@
 * 🖥 &nbsp; **[Typescript]** [**Ts.ed and Mongodb JWT Project**](https://github.com/agryva/ts.ed-mongoose-passport-jwt-example) - Example Ts.ed and Mongodb JWT 
 * 🖥 &nbsp; **[HTML & Javascript]** [**Landing Page UMKM Jawa Barat**](https://agryva.github.io/landing-page-umkm) - landing page to market machines in West Java
 
-**:wrench: Languages and Tools:**
+## **:wrench: Languages and Tools:**
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-flutter-0467D7?style=flat&logo=flutter&logoColor=white"> <br />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img
