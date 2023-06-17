@@ -45,10 +45,12 @@
     src="https://img.shields.io/badge/-Terminal-black?style=flat&logo=GNU%20Bash&logoColor=white"> <br /><img
     src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown"> <br />
 
-<hr>
+<hr />
 
 [![Irvan's github stats](https://github-readme-stats.vercel.app/api?username=agryva&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agryva&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+<hr />
+[![trophy](https://github-profile-trophy.vercel.app/?username=agryva)](https://github.com/ryo-ma/github-profile-trophy)
 <hr />
