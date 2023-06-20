@@ -49,7 +49,7 @@
 
 [![Irvan's github stats](https://github-readme-stats.vercel.app/api?username=agryva&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agryva&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Irvan's github stats](https://github-profile-trophy.vercel.app/?username=agryva)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=agryva&theme=gruvbox-duo&border_radius=4.6)](https://git.io/streak-stats)
 </div>
 
 
